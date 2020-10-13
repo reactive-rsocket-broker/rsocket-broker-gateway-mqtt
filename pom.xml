@@ -13,7 +13,7 @@
         <spring-boot.version>2.3.4.RELEASE</spring-boot.version>
         <reactor-bom.version>Dysprosium-SR12</reactor-bom.version>
         <rsocket.version>1.0.2</rsocket.version>
-        <netty.version>4.1.52.Final</netty.version>
+        <netty.version>4.1.53.Final</netty.version>
     </properties>
 
     <scm>
